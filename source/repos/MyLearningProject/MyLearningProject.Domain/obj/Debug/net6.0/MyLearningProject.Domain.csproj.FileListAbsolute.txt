@@ -1,0 +1,11 @@
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\bin\Debug\net6.0\MyLearningProject.Domain.deps.json
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\bin\Debug\net6.0\MyLearningProject.Domain.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\bin\Debug\net6.0\MyLearningProject.Domain.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\refint\MyLearningProject.Domain.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\MyLearningProject.Domain.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Domain\obj\Debug\net6.0\ref\MyLearningProject.Domain.dll

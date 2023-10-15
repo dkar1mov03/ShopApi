@@ -1,0 +1,17 @@
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.csproj.AssemblyReference.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Data.deps.json
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Data.runtimeconfig.json
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Data.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Data.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Domain.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\bin\Debug\net6.0\MyLearningProject.Domain.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.csproj.CopyComplete
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\refint\MyLearningProject.Data.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\MyLearningProject.Data.genruntimeconfig.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Data\obj\Debug\net6.0\ref\MyLearningProject.Data.dll

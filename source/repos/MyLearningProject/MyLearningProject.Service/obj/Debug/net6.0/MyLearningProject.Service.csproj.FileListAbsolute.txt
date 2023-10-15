@@ -1,0 +1,17 @@
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Service.deps.json
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Service.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Service.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\refint\MyLearningProject.Service.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\ref\MyLearningProject.Service.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Data.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Domain.dll
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Data.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\bin\Debug\net6.0\MyLearningProject.Domain.pdb
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.csproj.AssemblyReference.cache
+C:\Users\HP-Victus\source\repos\MyLearningProject\MyLearningProject.Service\obj\Debug\net6.0\MyLearningProject.Service.csproj.CopyComplete
